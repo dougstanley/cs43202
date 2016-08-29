@@ -10,14 +10,14 @@ CS 4/53202 Sec 001 Fall 2016
    CS 4/53202 Systems Administration Syllabus Fall 2016 - Page: ###Page###
 
 :Instructor: Douglas Stanley
-:Email: dmstanle@kent.edu
+:Email: dmstanle@kent.edu or dostanle@cs.kent.edu
 :Website: http://www.cs.kent.edu/~dostanle/courses/cs43202/
 :Location: MSB 106
 :Time: M-W 9:15 AM - 10:30 AM
 :Office Hours: TBD 10:30AM - 11:30 AM or by appointment
 :Syllabus: https://github.com/dougstanley/cs43202/
-:Version: 1.0
-:Modified: 08/28/2016
+:Version: 1.1
+:Modified: 08/29/2016
 
 Course Description:
 ===================
@@ -219,7 +219,8 @@ a letter grade.
 Final Exam
 ==========
 
-Thursday December 15th 2016 (12/15/16) from 10:15am-12:30pm
+*Thursday December 15th 2016* (**12/15/16**) from **10:15am-12:30pm**
+in the course classroom **MSB 106**
 
 Student Ethics and Other Policy Information
 ===========================================
