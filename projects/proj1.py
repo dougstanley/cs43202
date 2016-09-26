@@ -1,6 +1,7 @@
 import sys
 import os
 import base64
+import textwrap
 
 try:
     import json
@@ -14,7 +15,7 @@ def encode(DATA):
     print "on blackboard"
     print 79*'='
     blob = base64.b64encode(json.dumps(DATA))
-    print blob
+    print "\n".join(textwrap.wrap(blob,79))
     print "\n"
 
 try:
